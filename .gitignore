@@ -1,0 +1,22 @@
+# vscode shit
+.vscode
+
+# object files
+*.o
+
+# libraries
+*.so
+
+# executables
+*.out
+
+# run script
+run.sh
+
+# main file for testing
+main.c
+
+#tests
+unit_tests
+*.gc*
+html/
